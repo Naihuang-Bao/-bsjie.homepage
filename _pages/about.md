@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-
+[Resume](Resume_Shijie_Bao.pdf), [中文简历](简历_包诗界.pdf)
 
 # 🔥 News
 

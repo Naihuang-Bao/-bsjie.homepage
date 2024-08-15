@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Shijie BAO"
-  avatar           : 
+  avatar           : "leaf.png"
   bio              : 
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : 
   email            : 
-  researchgate     :  # "https://www.researchgate.net/profile/Shijie-Bao-3"
+  researchgate     : "https://www.researchgate.net/profile/Shijie-Bao-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # "Naihuang-Bao"
+  github           : "Naihuang-Bao"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : 
   dblp             : 
-  orcid            : # "https://orcid.org/0000-0002-6781-2316"
+  orcid            : "https://orcid.org/0000-0002-6781-2316"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
