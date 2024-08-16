@@ -9,25 +9,32 @@ redirect_from:
 ---
 
 
-[Resume](Resume_Shijie_Bao.pdf), [中文简历](简历_包诗界.pdf)
+[Resume](../_includes/Resume_Shijie_Bao.pdf), [中文简历](../_includes/简历_包诗界.pdf)
 
 # 🔥 News
-
-None.
-
-# 📝 Publications 
-
-None.
-
-# 🎖 Honors and Awards
 
 None.
 
 # 📖 Educations
 None. 
 
-# 💬 Invited Talks
+# 📝 Publications 
+
+None.
+
+# 📝 Preprints 
+
 None.
 
 # 💻 Work
 None.
+
+# 💬 Invited Talks
+None.
+
+# 🎖 Honors and Awards
+
+None.
+
+
+
