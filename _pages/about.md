@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-You can find my resume here: [Resume](../_includes/Resume_Shijie_Bao.pdf)
+You can find my resume here: [Resume](../_includes/Resume.pdf)
 
 # 🔥 News
 
